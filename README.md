@@ -6,6 +6,8 @@ You are a crab on a sunny day at the beach. Suddenly, you feel a strong appetite
 
 A simple 2D game built with Golang and Ebitengine.
 
+**Note:** This is a simplified game version for exploring Ebitengine in short knowledge sharing sessions. Please see [crab-complete](https://github.com/isensee-bastian/crab-complete) if you are interested in an expanded version of the game.
+
 ### How to Run
 
 * Ensure [Go is installed on your system](https://go.dev/doc/install)
